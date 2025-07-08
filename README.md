@@ -10,9 +10,7 @@ YOBEX, kullanıcıların kolayca alışveriş yapabilmesi için tasarlanmış bi
 
 **Uygulama Adresi:** [YOBEX](https://yobex.vercel.app)
 
-**Grup Adı:** YOBEX
-
-**Proje Ekibi:** Yusuf Tetik, Erhan Berkay Kirazoglu, Fatih Emre Barutcu, Özay Melih Yildiz
+**Website Adı:** YOBEX
 
 1. [Gereksinim Analizi](GereksinimAnalizi.md)
 2. [Durum Diyagramı](Durum-Diyagramı.md)
