@@ -17,4 +17,4 @@ YOBEX, kullanıcıların kolayca alışveriş yapabilmesi için tasarlanmış bi
 3. [Durum Senaryoları](Durum-Senaryoları.md)
 4. [Front-End](Front-End.md)
 5. [Back-End](Back-End.md)
-6. [Video Sunum](Sunum.md)
+
